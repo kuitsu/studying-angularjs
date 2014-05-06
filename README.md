@@ -1,4 +1,0 @@
-studying-angularjs
-==================
-
-Studying AngularJS
